@@ -8,7 +8,7 @@ Zhong Wang<sup>1</sup>, Lin Zhang<sup>1</sup>, Ying Shen<sup>1</sup>, Shengjie Z
 
 #### Introduction
 
->  This is the website for our paper [D-LIOM: Tightly-coupled Direct LiDAR-Inertial Odometry and Mapping](D-LIOM.pdf).
+>  This is the website for our paper D-LIOM: Tightly-coupled Direct LiDAR-Inertial Odometry and Mapping.
 
 #### TONGJI Handheld LiDAR-Inertial Dataset
 
@@ -35,5 +35,6 @@ Zhong Wang<sup>1</sup>, Lin Zhang<sup>1</sup>, Ying Shen<sup>1</sup>, Shengjie Z
 
 > The following demo video demonstrates the performance of our D-LIOM on a self-collected dataset using a handheld device from campus environments, a public indoor dataset gathered from an unmanned aerial vehicle (UAV) and a public dataset collected from complex urban environments with a vehicle-mounted platform, respectively .
 
-<video id="v1" controls="" src="dliom-compress.mp4" preload="none">
+<video id="v1" controls="" src="dliom-compress.mp4" preload="true">
+
 
